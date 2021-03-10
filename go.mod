@@ -1,4 +1,4 @@
-module grpc
+module github.com/PaulKorepanow/simplegrpc
 
 go 1.13
 
